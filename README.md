@@ -20,13 +20,13 @@ This C program calculates the summation of squares of numbers using multiple thr
 To compile the program, use the following command:
 
 ``` bash
-gcc -o Summation_of_squares Summation_of_squares.c -pthread
+gcc -o summation_of_squares summation_of_squares.c -pthread
 ```
 
 To run the compiled program, execute the following command:
 
 ```bash
-./Summation_of_squares
+./summation_of_squares
 ```
 
 ## Configuration
